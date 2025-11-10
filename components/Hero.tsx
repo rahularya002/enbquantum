@@ -18,7 +18,7 @@ export const Hero = () => {
                         Where Design Matters, No Matter what.
                     </h1>
                     <p className="text-primary text-base sm:text-lg mt-4 sm:mt-8">
-                        At enbquantums, we specialize in a diverse range of creative projects, including branding, graphic design, web development, user experience (UX) design, and interior design, catering to our clients' unique needs and delivering innovative solutions with unwavering dedication.
+                        At enbquantums, we specialize in a diverse range of creative projects, including branding, graphic design, web development, user experience (UX) design, and interior design, catering to our clients&apos; unique needs and delivering innovative solutions with unwavering dedication.
                     </p>
                     <div className="mt-6 sm:mt-12 flex">
                         <ArrowDown className="text-primary"/>
